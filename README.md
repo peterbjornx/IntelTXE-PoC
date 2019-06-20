@@ -307,6 +307,7 @@ The platform gives more opportunities for debugging without a special [Intel CCA
 
 * Gigabyte Mini-PC Barebone (BRIX) GB-BPCE-3350C (rev:1.1, 1.2)
 * Beelink M1
+* Jumper EZ-Book Pro 3 (No host CPU bringup yet)
 
 
 # Authors 
